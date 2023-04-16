@@ -8,7 +8,7 @@ body {
     /* 弹性布局 让页面元素垂直+水平居中 */
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     /* 让页面占屏幕总高 */
     height: 100vh;
     background-color: #000;
